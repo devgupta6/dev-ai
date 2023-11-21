@@ -1,0 +1,8 @@
+{
+    "model_type": "dev",
+    "vocab_size": 1000,
+    "n_embd": 1024,
+    "n_head": 4,
+    "n_layer": 4,
+    "dropout": 0.2
+  } 
